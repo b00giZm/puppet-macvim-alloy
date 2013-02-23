@@ -5,6 +5,7 @@ class Macvim < Formula
   url 'https://s3.amazonaws.com/net.codenugget.puppet-downloads/macvim-7.3-63.tgz'
   version '7.3-66-boxen1'
   sha1 '21321fd72834b11ee2d19b976bfed0f966538506'
+  version '7.3-66-boxen1'
 
   head 'https://github.com/b4winckler/macvim.git', :branch => 'master'
 
